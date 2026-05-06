@@ -7,7 +7,7 @@
 <p align="center">
   <strong>Take control of your finances.</strong><br/>
   Open source personal finance manager — built with Laravel & Tailwind CSS.
-</p>
+</p> 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-12-red?logo=laravel" alt="Laravel 12" />
